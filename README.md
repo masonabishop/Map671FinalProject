@@ -1,7 +1,6 @@
+# Food Access Near Acoma & Laguna Pueblos
 
-# Project title
-
-Across the README.md file, please answer the who, what, when, where, why, and how of the map making process
+Food deserts are defined by the [USDA](https://www.ers.usda.gov/webdocs/publications/45014/30940_err140.pdf) as "areas where people have limited access to a variety of healthy and affordable food." [This map](Images/FoodAccess_LagunaAcoma_600dpi.png) is a quick glimpse at what a food desert might look like in an underserved area, like my home reservations in New Mexico.
 
 ## Project Contents
 
@@ -9,16 +8,18 @@ If you wanted to include a table of contents to sections, and then links to each
 
 - [Data Source](#data-source)
 - [Project Background](#project-background)
+- [Mapmaking Process](#mapmaking-process)
 - ....
 
 ***
 
 ### Data Source
 
-[Link to data source](https://...)
+- [TIGER/Line Shapefile, 2020, Nation, U.S., American Indian Tribal Subdivisions](https://catalog.data.gov/dataset/tiger-line-shapefile-2020-nation-u-s-american-indian-tribal-subdivisions)
+- [OpenStreetMap](http://openstreetmap.org)
 
-* Initial Data projection: 
-* Final Map projection:
+* Initial Data projection: WGS 84, EPSG:4326
+* Final Map projection: NAD83(2011)/New Mexico Central (ftUS), EPSG:6529
 
 ### Project Background
 
