@@ -86,4 +86,4 @@ We now have a map showing us that perhaps eating fast food is more convenient th
 
 Here you are linking from the README.md to the index.html.
 
-Please view the [final map online](https://github.com/masonabishop/Map671FinalProject)
+Please view the [final map online](index.html)
